@@ -1,6 +1,6 @@
 # Scraping, Stats and Plots!!!! Assessment for Mod 2
 
-<img src="images/zscore-meme.png"/>
+<img src="images/zscore-meme.jpg"/>
 
 -----
 

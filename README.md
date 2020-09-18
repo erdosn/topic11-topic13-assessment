@@ -11,9 +11,12 @@ YW
     * calculate the zscores of a given column
     * calculate the zscores of a point from a given column in the dataframe
     * calculate and plot the pmf and cdf of another column
-* Bonus
+* Level Up
     * find zscores of a certain amount
     * calculate skewness and kurtosis
+    * plot pdfs and cdfs
+    * calculate probabilities on a normal distribution
+    * compare probabilities between 2 normal distributions
     
 
 # Instructions
